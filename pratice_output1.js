@@ -43,3 +43,11 @@ else{
     num2 = num2 / 2;
 }
 console.log(num2);
+
+//Hello, Bruce!
+//Adding 5
+//Adding another 5
+//Divisible by 2
+//Divisible by 3
+//Almost there!
+//7.5
